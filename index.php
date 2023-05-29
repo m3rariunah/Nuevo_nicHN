@@ -38,6 +38,7 @@
         </style>
           
         <?php include ('service.html') ?>
+        
         <?php include ('footer.html') ?>
        
         <!-- Core theme JS-->

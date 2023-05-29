@@ -6,7 +6,7 @@
 </head>
 <body class="">
     <main class="">
-         <?php include ('home.html') ?>
+        
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
@@ -102,7 +102,7 @@
 
         </section>
     <!-- Footer-->
-        <?php include ('footer.html') ?>
+        
     </main>
 </body>
 
